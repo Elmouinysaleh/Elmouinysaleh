@@ -11,9 +11,11 @@ Welcome to my GitHub profile! I'm a computer engineer with a passion for mathema
 
 I believe that technology has the power to shape the future and bring about positive change. With an insatiable curiosity and a love for problem-solving, I'm on a mission to explore the vast realms of software engineering, data science, and network technologies. </p>
 
-<p align="right"><p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Animation" /> 
-  </p></p>
+</p>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" /></p>
+
+<br>
 
 ## 💡 Skills & Expertise
 
