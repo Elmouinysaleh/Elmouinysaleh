@@ -7,13 +7,13 @@ Welcome to my GitHub profile! I'm a computer engineer with a passion for mathema
 - Currently pursuing a Master of Science in **Data, Software Engineering, and Networks** 📖
 - Enrolled in the **ALX Software Engineer Certification Program** 🚀
 
-<p align="left" style="padding: 0 15px"> <h2>   🌟 About Me </h2> 
+<p align="left"> <h2>   🌟 About Me </h2> 
 
 I believe that technology has the power to shape the future and bring about positive change. With an insatiable curiosity and a love for problem-solving, I'm on a mission to explore the vast realms of software engineering, data science, and network technologies. </p>
 
 </p>
-
-<p style="padding: 0 15px"><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" /></p>
+<hr>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" /></p>
 
 <br>
 
