@@ -13,7 +13,7 @@ I believe that technology has the power to shape the future and bring about posi
 
 </p>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" /></p>
+<p style="padding: 0 15px"><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" /></p>
 
 <br>
 
