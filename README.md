@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I'm a computer engineer with a passion for mathema
 - Currently pursuing a Master of Science in **Data, Software Engineering, and Networks** 📖
 - Enrolled in the **ALX Software Engineer Certification Program** 🚀
 
-## 🌟 About Me
+<p align="left"> ## 🌟 About Me
 
-I believe that technology has the power to shape the future and bring about positive change. With an insatiable curiosity and a love for problem-solving, I'm on a mission to explore the vast realms of software engineering, data science, and network technologies.
+I believe that technology has the power to shape the future and bring about positive change. With an insatiable curiosity and a love for problem-solving, I'm on a mission to explore the vast realms of software engineering, data science, and network technologies. </p>
 
-![animation_500_kxa883sd](https://github.com/Elmouinysaleh/Elmouinysaleh/assets/36488900/8aeb77d8-949d-4682-afc5-31b002def472)
+<p align="right">![animation_500_kxa883sd](https://github.com/Elmouinysaleh/Elmouinysaleh/assets/36488900/8aeb77d8-949d-4682-afc5-31b002def472)</p>
 
 ## 💡 Skills & Expertise
 
