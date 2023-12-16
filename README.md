@@ -12,12 +12,10 @@ Welcome to my GitHub profile! I'm a computer engineer with a passion for mathema
 I believe that technology has the power to shape the future and bring about positive change. With an insatiable curiosity and a love for problem-solving, I'm on a mission to explore the vast realms of software engineering, data science, and network technologies. </p>
 
 </p>
-<hr>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" /></p>
 
-<br>
-<p style="padding: 0 15px">
-<h2> 💡 Skills & Expertise </h2> 
+
+<p align="left"> <h2>  💡 Skills & Expertise </h2>
 
 I have a diverse skill set that spans various domains. Here are some of my areas of expertise:
 
@@ -36,8 +34,7 @@ I have a diverse skill set that spans various domains. Here are some of my areas
 - **Virtualization**: I'm skilled in virtualization technologies, including VirtualBox, VMware, and Vagrant. Leveraging these tools, I create virtual environments that simulate real-world scenarios and facilitate efficient development and testing.
 
 - **Networking**: I possess a deep understanding of networking fundamentals, enabling me to design and troubleshoot networks, ensuring seamless communication and optimal performance.
-
-  </p>
+</p>
 
 ## 🌍 Let's Connect!
 
