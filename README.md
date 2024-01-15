@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a computer engineer with a passion for mathema
 
 - Diploma of Computer Engineering from **EST Casa** 🎓
 - Bachelor of Mathematics and Computer Sciences from **University Hassan II, Faculty of Science Ain Chok** 📚
-- Currently pursuing a Master of Science in **Data, Software Engineering, and Networks** 📖
+- Currently pursuing a Master **Data Science, Software Engineering, and Networks** 📖
 - Enrolled in the **ALX Software Engineer Certification Program** 🚀
 
 <p align="left"> <h2>   🌟 About Me </h2> 
